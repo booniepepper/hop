@@ -1,5 +1,7 @@
 # `hop` 🦘 Higher-Order Programs
 
+⚠ _Unstable - work in progress_ ⚠
+
 Program composition for Unix pipes.
 
 ```

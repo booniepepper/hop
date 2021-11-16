@@ -1,6 +1,6 @@
 # `hop` 🦘 Higher-Order Programs
 
-⚠ _Unstable - work in progress_ ⚠
+⚠ _Work in progress: Not actually started yet_ ⚠
 
 Program composition for Unix pipes.
 

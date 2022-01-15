@@ -1,6 +1,6 @@
 # `hop` 🦘 Higher-Order Programs
 
-⚠ _Work in progress: Not actually started yet_ ⚠
+⚠ _Status: Not actually started yet_ ⚠
 
 Program composition for Unix pipes.
 
@@ -20,5 +20,5 @@ role to `map` and `filter` from the FP paradigm, too.
 
 # Credits
 
-2021 - By J.R. Hill
+202? - By J.R. Hill
 
